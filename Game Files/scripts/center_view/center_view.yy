@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"center_view",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"center_view",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
