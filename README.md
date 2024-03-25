@@ -1,6 +1,4 @@
 # Sanctuary
-Slice type : horizontal
-
 Instructions:
 To install the game, run the executable and install the necessary packages. It will then create a runnable executable. The game was made in GameMaker Studio latest version as of March 5, 2024. Source code is included in the Github link as part of the submission. Please reach out if there are any difficulties with these aspects.
 
