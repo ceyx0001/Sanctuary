@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_throwable_miss",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.000454,
+  "name":"snd_throwable_miss",
+  "parent":{
+    "name":"Loot",
+    "path":"folders/Sounds/Loot.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_throwable_miss.wav",
+  "type":0,
+  "volume":1.0,
+}
