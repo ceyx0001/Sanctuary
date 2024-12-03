@@ -2,7 +2,7 @@
 Play now at: https://gx.games/games/zvvevg/sanctuary/tracks/59d1eeef-8966-4309-8f5a-fe869942cd08
 
 Instructions:
-To install the game, run the executable and install the necessary packages. It will then create a runnable executable. The game was made in GameMaker Studio latest version as of March 5, 2024. Source code is included in the Github link as part of the submission. Please reach out if there are any difficulties with these aspects.
+To install the game, run the executable and install the necessary packages. It will then create a runnable executable. The game was made in GameMaker Studio latest version as of March 5, 2024.
 
 Controls:
 WASD for movement. Press C for skill 1.
